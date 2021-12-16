@@ -1,0 +1,72 @@
+#+title: ALYS
+#+author: Lucien Cartier-Tilet
+#+email: lucien@phundrak.com
+
+[[file:./img/ALYS4AE.jpg]]
+
+* What is ALYS?
+ALYS is a virtual French singer developed by VoxWave from 2014
+to 2020. It has two main editions: its UTAU prototype, developed
+between 2014 and 2015, and its Alter/Ego edition developed between
+2015 and 2020.
+
+* Vocal Libraries
+ALYS got several libraries since the project started:
+- French Libraries
+  - ALYS DB 001 FRA :: The first French vocal library made for ALYS.
+    This library was recorded at the same time as /ALYS DB 001 JP/ but
+    was later scrapped due to its low quality.
+    - License :: GPL-3.0
+    - Path :: [[file:./UTAU/ALYS_DB_001_FRA]]
+  - ALYS DB 002 FRA :: The second French library made for ALYS. It was
+    made for UTAU and became her first vocal library ever heard. It is
+    available under the GPL-3.0 license.
+    - License :: GPL-3.0
+    - Path :: [[file:./UTAU/ALYS_DB_002_FRA]]
+  - ALYS DB 003 FRA :: Codename /ALYS4AE FR/. This is the first publicly
+    released French vocal library published along /ALYS4AE JP/. Its
+    installer as well as a license key are available under the
+    [[file:./AlterEgo/]] directory.
+
+    A modified version of its source files are available under the
+    GPL-3.0 under the directory . This directory does not contain
+    anything related to Alter/Ego. They can be used to create a new
+    UTAU vocal library. Pull requests are more than welcomed for
+    ~oto.ini~ files for this library.
+    - Path ::
+      - binary installers for Alter/Ego :: [[file:./AlterEgo/]]
+      - wav files :: [[file:./UTAU/ALYS_DB_003_FRA]]
+    - License ::
+      - binary installers for Alter/Ego :: VoxWave © 2015-2021, Lucien “Phundrak” Cartier-Tilet © 2021
+      - wav files :: GPL-3.0
+- Japanese Libraries
+  - ALYS DB 001 JPN :: The first Japanese vocal library made for ALYS.
+    It was only used a handful of times before the release of ALYS4AE.
+    - License :: GPL-3.0
+    - Path :: [[file:./UTAU/ALYS_DB_001_JPN]]
+  - ALYS DB 002 JPN :: Codename /ALYS4AE JP/. This is the first publicly
+    released Japanese vocal library along with /ALYS4AE FR/. Its
+    installer as well as a license key are available under the
+    [[file:./AlterEgo/]] directory.
+
+    A modified version of its source files are available under the
+    GPL-3.0 under the directory . This directory does not contain
+    anything related to Alter/Ego. They can be used to create a new
+    UTAU vocal library. Pull requests are more than welcomed for
+    ~oto.ini~ files for this library.
+    - Path ::
+      - binary installers for Alter/Ego :: [[file:./AlterEgo/]]
+      - wav files :: [[file:./UTAU/ALYS_DB_002_JPN]]
+    - License ::
+      - binary installers for Alter/Ego :: VoxWave © 2015-2021, Lucien “Phundrak” Cartier-Tilet © 2021
+      - wav files :: GPL-3.0
+
+* Installing ALYS4AE
+/ALYS4AE/ refers to the bundle of /ALYS4AE FR/ and /ALYS4AE JP/. They can be
+installed on Windows with their ~.exe~ installer or on macOS with their
+~.pkg~ installer found in [[file:./AlterEgo/]] directory. Once installed,
+open AlterEgo either as a standalone or as an instrument in your DAW
+(Digital Audio Workstation) of choice and drag and drop the [[file:./AlterEgo/VoxWave.png][licence
+image]] on the AlterEgo interface. Installing ALYS4AE requires a
+pre-existing installation of Alter/Ego itself. You can get it from
+[[https://www.plogue.com/products/alter-ego.html][Plogue]]’s website.
