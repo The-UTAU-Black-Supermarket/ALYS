@@ -1,0 +1,41 @@
+{
+   "G4->-da" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.096319969743490,
+      "pitch" : "G4",
+      "preutterance" : 0.08283018693327904,
+      "srcType" : "CV",
+      "startTime" : 0.1501919664442539,
+      "symbol" : "-da",
+      "tailPoint" : 1.941128003299236,
+      "updateTime" : "2021-12-21 14:16:49",
+      "vowelEnd" : 1.886128004640341,
+      "vowelStart" : 0.1759071014821529,
+      "wavName" : "clear.wav"
+   },
+   "G4->a_d" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.167444761842489,
+      "pitch" : "G4",
+      "srcType" : "VX",
+      "startTime" : 1.964904967695475,
+      "symbol" : "a_d",
+      "tailPoint" : 0.1425397954881191,
+      "updateTime" : "2021-12-21 14:17:26",
+      "wavName" : "clear.wav"
+   },
+   "G4->da" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.474022921174765,
+      "pitch" : "G4",
+      "preutterance" : 0.1513207517564297,
+      "srcType" : "CV",
+      "startTime" : 2.043932620435953,
+      "symbol" : "da",
+      "tailPoint" : 0.4250903007388116,
+      "updateTime" : "2021-12-21 14:17:40",
+      "vowelEnd" : 0.3700903020799160,
+      "vowelStart" : 0.2553799711167812,
+      "wavName" : "clear.wav"
+   }
+}

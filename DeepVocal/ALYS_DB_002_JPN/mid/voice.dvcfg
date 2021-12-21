@@ -1,0 +1,41 @@
+{
+   "E4->-a" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 0.7207785807549954,
+      "pitch" : "E4",
+      "preutterance" : 0.06714367493987083,
+      "srcType" : "CV",
+      "startTime" : 0.1467518247663975,
+      "symbol" : "-a",
+      "tailPoint" : 0.5690267559885979,
+      "updateTime" : "2021-12-21 17:26:58",
+      "vowelEnd" : 0.5140267573297024,
+      "vowelStart" : 0.1048103235661984,
+      "wavName" : "a001.wav"
+   },
+   "E4->a" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 0.7207785807549954,
+      "pitch" : "E4",
+      "preutterance" : 0.06714367493987083,
+      "srcType" : "CV",
+      "startTime" : 0.1467518247663975,
+      "symbol" : "a",
+      "tailPoint" : 0.5690267559885979,
+      "updateTime" : "2021-12-21 17:27:26",
+      "vowelEnd" : 0.5140267573297024,
+      "vowelStart" : 0.1048103235661984,
+      "wavName" : "a001.wav"
+   },
+   "E4->a_-" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.824100788682699,
+      "pitch" : "E4",
+      "srcType" : "VX",
+      "startTime" : 1.591340009123087,
+      "symbol" : "a_-",
+      "tailPoint" : 0.1727607809007168,
+      "updateTime" : "2021-12-21 17:27:52",
+      "wavName" : "a001.wav"
+   }
+}
