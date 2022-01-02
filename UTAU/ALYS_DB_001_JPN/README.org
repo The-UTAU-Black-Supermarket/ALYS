@@ -1,0 +1,18 @@
+#+title: ALYS DB 001 JPN
+#+author: Lucien Cartier-Tilet
+#+email: lucien@phundrak.com
+
+* What is ALYS DB 001 JPA?
+ALYS DB 001 JPN is the first Japanese vocal library developped for
+ALYS from July 2014 to mid-2015. It was ALYS’ second publicly heard
+vocal library. It is developed as an UTAU vocal library.
+
+* Download and Installation
+Either download this repository through ~git~ or its archive from [[https://labs.phundrak.com/ALYS/ALYS-DB-001-JPN/releases][the
+release page]] and place the directory in your ~voicebanks~ directory in
+the UTAU installation directory. You can then chose ALYS from your
+vocal library list in UTAU.
+
+* License
+ALYS-DB-001-JPN is available under the GPL-3.0 license. [[file:LICENSE.md][Full legal
+text here]].

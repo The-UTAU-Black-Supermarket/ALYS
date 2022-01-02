@@ -1,0 +1,18 @@
+#+title: ALYS DB 001 FRA
+#+author: Lucien Cartier-Tilet
+#+email: lucien@phundrak.com
+
+* What is ALYS DB 001 FRA?
+ALYS DB 001 FRA is the first ever vocal library developed for ALYS
+back in July 2014. However, it was quickly abandoned due to its poo r
+quality in favor of [[https://labs.phundrak.com/ALYS/ALYS-DB-002-FRA][ALYS DB 002 FRA]].
+
+* Download and Installation
+Either download this repository through ~git~ or its archive from [[https://labs.phundrak.com/ALYS/ALYS-DB-001-FRA/releases][the
+release page]] and place the directory in your ~voicebanks~ directory in
+the UTAU installation directory. You can then chose ALYS from your
+vocal library list in UTAU.
+
+* License
+ALYS-DB-001-FRA is available under the GPL-3.0 license. [[file:LICENSE.md][Full legal
+text here]].
