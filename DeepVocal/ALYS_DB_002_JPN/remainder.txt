@@ -1,26 +1,3 @@
-sha shi she sho
-za zu ze zo
-ja ji ju je jo
-ta ti tu te to
-cha chi che cho
-tsa tsi tsu tse tso
-da du de
-na ni nu ne no
-nya nyu nye nyo
-ha hu he ho
-fa fi fu fe fo
-hya hyu hye
-ba bi bu be bo
-bya byu bye byo
-pi pu pe po
-pya pyu pye pyo
-ma mi mu mo
-mya myu mye myo
-ya yu ye yo
-ra ri re ro
-rya ryu rye ryo
-wa wi we wo
-
 a_n a_ny a_my a_y a_w 
 a_sh a_z a_j a_t a_ts a_ch
 a_h a_f a_by a_p a_py 
