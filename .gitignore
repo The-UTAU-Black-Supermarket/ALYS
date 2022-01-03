@@ -1,5 +1,7 @@
 /AlterEgo
 /img
-/DeepVocal/*/build
 /DeepVocal/*/model
 dv-log.txt
+SKC
+SKI
+voice.sksd
