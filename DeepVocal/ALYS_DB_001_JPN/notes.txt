@@ -76,8 +76,8 @@ gyu_gyu_gye_gyu_gyo_gyu_n_gy.wav
 gye_gye_gyo_gye_n_gye_gya_gy.wav
 gyo_gyo_n_gyo_gya_gyo_gyi_gy.wav
 gy_n_gyi_n_gya_n_gyu_gy.wav
-gy_N_gye_N_gyo_.wav
 gy_N_gyi_N_gya_N_gyu.wav
+gy_N_gye_N_gyo_.wav
 
 gwa_gwa_gwi_gwa_gwu_gwa_gwe_gw.wav
 gwi_gwi_gwu_gwi_gwe_gwi_gwo_gw.wav
