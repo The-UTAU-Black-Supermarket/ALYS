@@ -2155,6 +2155,94 @@
       "updateTime" : "2022-01-05 17:07:40",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->nn_G" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.319101389497519,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 7.063498917967081,
+      "symbol" : "nn_G",
+      "tailPoint" : 0.1956024728715420,
+      "updateTime" : "2022-01-07 11:14:17",
+      "wavName" : "gu_gu_ge_gu_go_gu_n_g.wav"
+   },
+   "C4->nn_GW" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.239488180726767,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.869771424680948,
+      "symbol" : "nn_GW",
+      "tailPoint" : 0.3097167573869228,
+      "updateTime" : "2022-01-07 11:14:53",
+      "wavName" : "gwu_gwu_gwe_gwu_gwo_gwu_n_gw.wav"
+   },
+   "C4->nn_GY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.310811098664999,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 7.022437993437052,
+      "symbol" : "nn_GY",
+      "tailPoint" : 0.2283731065690517,
+      "updateTime" : "2022-01-07 11:14:35",
+      "wavName" : "gyu_gyu_gye_gyu_gyo_gyu_n_gy.wav"
+   },
+   "C4->nn_K" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.766316469758749,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.465445462614298,
+      "symbol" : "nn_K",
+      "tailPoint" : 0.2408710084855557,
+      "updateTime" : "2022-01-07 11:11:47",
+      "wavName" : "ku_ku_ke_ku_ko_ku_n_k.wav"
+   },
+   "C4->nn_KW" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.916255529969931,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.599693242460489,
+      "symbol" : "nn_KW",
+      "tailPoint" : 0.2565622888505459,
+      "updateTime" : "2022-01-07 11:13:59",
+      "wavName" : "kwu_kwu_kwe_kwu_kwo_kwu_n_kw.wav"
+   },
+   "C4->nn_KY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.078820522874594,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.7888112701475620,
+      "symbol" : "nn_KY",
+      "tailPoint" : 0.2300092540681362,
+      "updateTime" : "2022-01-07 11:13:02",
+      "wavName" : "ky_n_kyi_n_kya_n_kyu_ky.wav"
+   },
+   "C4->nn_S" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.028271254152060,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.752850953489542,
+      "symbol" : "nn_S",
+      "tailPoint" : 0.2154203020036221,
+      "updateTime" : "2022-01-07 11:15:11",
+      "wavName" : "su_su_se_su_so_su_n_s.wav"
+   },
+   "C4->nn_SH" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.994802530854940,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.652454320341349,
+      "symbol" : "nn_SH",
+      "tailPoint" : 0.2823482118546963,
+      "updateTime" : "2022-01-07 11:15:30",
+      "wavName" : "shu_shu_she_shu_sho_shu_n_sh.wav"
+   },
    "C4->nn_a" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 2.164133604615927,
