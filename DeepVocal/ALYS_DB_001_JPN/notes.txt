@@ -252,8 +252,8 @@ pyu_pyu_pye_pyu_pyo_pyu_n_py.wav
 pye_pye_pyo_pye_n_pye_pya_py.wav
 pyo_pyo_n_pyo_pya_pyo_pyi_py.wav
 py_n_pyi_n_pya_n_pyu_py.wav
-py_m_pye_m_pyo.wav
 py_m_pyi_m_pya_m_pyu.wav
+py_m_pye_m_pyo.wav
 
 ma_ma_mi_ma_mu_ma_me_m.wav
 mi_mi_mu_mi_me_mi_mo_m.wav
