@@ -1,5 +1,7 @@
 vowel only pitches
 A3 G4 C5
+105 configs
+951 expected errors
 
 -a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav
 -ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav
@@ -18,6 +20,8 @@ N_u_N_e_N_o_N.wav
 
 full pitches
 C4 E4 A4
+849 configs
+219 expected errors
 
 -a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav
 -ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav
