@@ -525,7 +525,7 @@
       "srcType" : "CV",
       "startTime" : 0.02407488599419594,
       "symbol" : "-ji",
-      "tailPoint" : 1.087866502702236,
+      "tailPoint" : 1.087866502702237,
       "updateTime" : "2022-01-07 13:34:05",
       "vowelEnd" : 1.032866504043341,
       "vowelStart" : 0.2794682048261166,
@@ -755,6 +755,34 @@
       "vowelStart" : 0.09655814990401268,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->-na" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.064089473336935,
+      "pitch" : "C4",
+      "preutterance" : 0.1510008908808231,
+      "srcType" : "CV",
+      "startTime" : 0.04333485290408135,
+      "symbol" : "-na",
+      "tailPoint" : 1.015754620432854,
+      "updateTime" : "2022-01-09 11:36:58",
+      "vowelEnd" : 0.9607546217739582,
+      "vowelStart" : 0.1895605958998203,
+      "wavName" : "na_na_ni_na_nu_na_ne_n.wav"
+   },
+   "C4->-ne" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.000748749822378,
+      "pitch" : "C4",
+      "preutterance" : 0.1672840230166912,
+      "srcType" : "CV",
+      "startTime" : 0.05376772955060005,
+      "symbol" : "-ne",
+      "tailPoint" : 0.9419810202717781,
+      "updateTime" : "2022-01-09 11:40:32",
+      "vowelEnd" : 0.8869810216128826,
+      "vowelStart" : 0.2432768754661083,
+      "wavName" : "ne_ne_no_ne_n_ne_na_n.wav"
+   },
    "C4->-ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 13.16652637347579,
@@ -768,6 +796,20 @@
       "vowelEnd" : 1.022912558168173,
       "vowelStart" : 0.1090608201920986,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
+   },
+   "C4->-ni" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.062150772660971,
+      "pitch" : "C4",
+      "preutterance" : 0.1790632866322994,
+      "srcType" : "CV",
+      "startTime" : 0.01303194835782051,
+      "symbol" : "-ni",
+      "tailPoint" : 1.044118824303150,
+      "updateTime" : "2022-01-09 11:38:05",
+      "vowelEnd" : 0.9891188256442547,
+      "vowelStart" : 0.2322165481746197,
+      "wavName" : "ni_ni_nu_ni_ne_ni_no_n.wav"
    },
    "C4->-nn" : {
       "connectPoint" : 0.05999999865889549,
@@ -796,6 +838,90 @@
       "vowelEnd" : 1.161659773439169,
       "vowelStart" : 0.1657109819352627,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
+   },
+   "C4->-no" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.045692320913076,
+      "pitch" : "C4",
+      "preutterance" : 0.1678474061191082,
+      "srcType" : "CV",
+      "startTime" : 0.04884602501988411,
+      "symbol" : "-no",
+      "tailPoint" : 0.9918462958931924,
+      "updateTime" : "2022-01-09 11:41:13",
+      "vowelEnd" : 0.9368462972342968,
+      "vowelStart" : 0.2585017494857311,
+      "wavName" : "no_no_n_no_na_no_ni_n.wav"
+   },
+   "C4->-nu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.060107525438070,
+      "pitch" : "C4",
+      "preutterance" : 0.1753949783742428,
+      "srcType" : "CV",
+      "startTime" : 0.09463927522301674,
+      "symbol" : "-nu",
+      "tailPoint" : 0.9604682502150537,
+      "updateTime" : "2022-01-09 11:39:45",
+      "vowelEnd" : 0.9054682515561581,
+      "vowelStart" : 0.3182105980813503,
+      "wavName" : "nu_nu_ne_nu_no_nu_n_n.wav"
+   },
+   "C4->-nya" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.023402746766806,
+      "pitch" : "C4",
+      "preutterance" : 0.1596387811005116,
+      "srcType" : "CV",
+      "startTime" : 0.03195885941386223,
+      "symbol" : "-nya",
+      "tailPoint" : 0.9864438873529435,
+      "updateTime" : "2022-01-09 11:43:08",
+      "vowelEnd" : 0.9314438886940479,
+      "vowelStart" : 0.3367743678390980,
+      "wavName" : "nya_nya_nyi_nya_nyu_nya_nye_ny.wav"
+   },
+   "C4->-nye" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.066812690347433,
+      "pitch" : "C4",
+      "preutterance" : 0.1704188846051693,
+      "srcType" : "CV",
+      "startTime" : 0.01487730816006661,
+      "symbol" : "-nye",
+      "tailPoint" : 1.046935382187367,
+      "updateTime" : "2022-01-09 11:44:49",
+      "vowelEnd" : 0.9919353835284710,
+      "vowelStart" : 0.3614435307681561,
+      "wavName" : "nye_nye_nyo_nye_n_nye_nya_ny.wav"
+   },
+   "C4->-nyo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.005055066198111,
+      "pitch" : "C4",
+      "preutterance" : 0.1059858240187168,
+      "srcType" : "CV",
+      "startTime" : 0.03035293146967888,
+      "symbol" : "-nyo",
+      "tailPoint" : 0.9697021347284318,
+      "updateTime" : "2022-01-09 11:45:57",
+      "vowelEnd" : 0.9147021360695362,
+      "vowelStart" : 0.3184720762073994,
+      "wavName" : "nyo_nyo_n_nyo_nya_nyo_nyi_ny.wav"
+   },
+   "C4->-nyu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.040776010602713,
+      "pitch" : "C4",
+      "preutterance" : 0.1764004789292812,
+      "srcType" : "CV",
+      "startTime" : 0.03990745916962624,
+      "symbol" : "-nyu",
+      "tailPoint" : 0.9958685514330865,
+      "updateTime" : "2022-01-09 11:44:06",
+      "vowelEnd" : 0.9408685527741909,
+      "vowelStart" : 0.3651580177247524,
+      "wavName" : "nyu_nyu_nye_nyu_nyo_nyu_n_ny.wav"
    },
    "C4->-o" : {
       "connectPoint" : 0.05999999865889549,
@@ -1267,7 +1393,7 @@
       "srcType" : "CV",
       "startTime" : 0.02086771652102470,
       "symbol" : "-zi",
-      "tailPoint" : 1.057290832400322,
+      "tailPoint" : 1.057290832400323,
       "updateTime" : "2022-01-07 13:14:12",
       "vowelEnd" : 1.002290833741427,
       "vowelStart" : 0.2363414652645588,
@@ -1289,7 +1415,7 @@
    },
    "C4->-zu" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.113994535058737,
+      "endTime" : 1.113994535058736,
       "pitch" : "C4",
       "preutterance" : 0.2207374460995197,
       "srcType" : "CV",
@@ -1446,6 +1572,28 @@
       "tailPoint" : 0.2986293397843838,
       "updateTime" : "2022-01-05 18:36:38",
       "wavName" : "kye_kye_kyo_kye_n_kye_kya_ky.wav"
+   },
+   "C4->a_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.320248659700155,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.820284310728312,
+      "symbol" : "a_N",
+      "tailPoint" : 0.4399643503129482,
+      "updateTime" : "2022-01-09 11:40:51",
+      "wavName" : "ne_ne_no_ne_n_ne_na_n.wav"
+   },
+   "C4->a_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.333651598542929,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.850543919950724,
+      "symbol" : "a_NY",
+      "tailPoint" : 0.4231076799333096,
+      "updateTime" : "2022-01-09 11:45:22",
+      "wavName" : "nye_nye_nyo_nye_n_nye_nya_ny.wav"
    },
    "C4->a_S" : {
       "connectPoint" : 0.05999999865889549,
@@ -1700,6 +1848,17 @@
       "updateTime" : "2022-01-05 17:13:53",
       "wavName" : "m_m_a_m_i_m_u.wav"
    },
+   "C4->a_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.094537671655417,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9440894760191441,
+      "symbol" : "a_n",
+      "tailPoint" : 0.09044819697737694,
+      "updateTime" : "2022-01-09 11:37:09",
+      "wavName" : "na_na_ni_na_nu_na_ne_n.wav"
+   },
    "C4->a_ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 3.260376986116171,
@@ -1732,6 +1891,17 @@
       "tailPoint" : 0.1389983259141445,
       "updateTime" : "2022-01-05 17:12:45",
       "wavName" : "J_J_a_J_i_J_u.wav"
+   },
+   "C4->a_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.094573315232992,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9034027494490147,
+      "symbol" : "a_ny",
+      "tailPoint" : 0.1311705671250820,
+      "updateTime" : "2022-01-09 11:43:13",
+      "wavName" : "nya_nya_nyi_nya_nyu_nya_nye_ny.wav"
    },
    "C4->a_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -1912,7 +2082,7 @@
       "symbol" : "da",
       "tailPoint" : 1.030133711993694,
       "updateTime" : "2022-01-07 16:19:03",
-      "vowelEnd" : 0.9751337133347988,
+      "vowelEnd" : 0.9751337133347986,
       "vowelStart" : 0.2017193399369717,
       "wavName" : "da_da_di_da_du_da_de_d.wav"
    },
@@ -2036,7 +2206,7 @@
       "srcType" : "CV",
       "startTime" : 1.010339919477701,
       "symbol" : "dza",
-      "tailPoint" : 1.092840182483196,
+      "tailPoint" : 1.092840182483197,
       "updateTime" : "2022-01-07 16:40:08",
       "vowelEnd" : 1.037840183824301,
       "vowelStart" : 0.2340645156800747,
@@ -2243,6 +2413,28 @@
       "tailPoint" : 0.2427983842790127,
       "updateTime" : "2022-01-05 18:34:02",
       "wavName" : "kya_kya_kyi_kya_kyu_kya_kye_ky.wav"
+   },
+   "C4->e_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.232198294252157,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.845364991575480,
+      "symbol" : "e_N",
+      "tailPoint" : 0.3268333040177822,
+      "updateTime" : "2022-01-09 11:37:46",
+      "wavName" : "na_na_ni_na_nu_na_ne_n.wav"
+   },
+   "C4->e_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.414768751710653,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 7.008504811674357,
+      "symbol" : "e_NY",
+      "tailPoint" : 0.3462639413774014,
+      "updateTime" : "2022-01-09 11:43:32",
+      "wavName" : "nya_nya_nyi_nya_nyu_nya_nye_ny.wav"
    },
    "C4->e_S" : {
       "connectPoint" : 0.05999999865889549,
@@ -2497,6 +2689,17 @@
       "updateTime" : "2022-01-05 17:14:25",
       "wavName" : "m_u_m_e_m_o_m.wav"
    },
+   "C4->e_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.076741632074118,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8807487525045872,
+      "symbol" : "e_n",
+      "tailPoint" : 0.1359928809106350,
+      "updateTime" : "2022-01-09 11:40:37",
+      "wavName" : "ne_ne_no_ne_n_ne_na_n.wav"
+   },
    "C4->e_ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 4.141596850007772,
@@ -2529,6 +2732,17 @@
       "tailPoint" : 0.1369247995316982,
       "updateTime" : "2022-01-05 17:13:30",
       "wavName" : "J_u_J_e_J_o_J.wav"
+   },
+   "C4->e_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.111434038728476,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9468126930296421,
+      "symbol" : "e_ny",
+      "tailPoint" : 0.1046213470399380,
+      "updateTime" : "2022-01-09 11:45:00",
+      "wavName" : "nye_nye_nyo_nye_n_nye_nya_ny.wav"
    },
    "C4->e_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -2609,7 +2823,7 @@
    },
    "C4->e_z" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.257957395166159,
+      "endTime" : 1.257957395166158,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 1.069786254316568,
@@ -2957,6 +3171,28 @@
       "updateTime" : "2022-01-05 18:37:45",
       "wavName" : "kyo_kyo_n_kyo_kya_kyo_kyi_ky.wav"
    },
+   "C4->i_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.265646990388632,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.756458703428507,
+      "symbol" : "i_N",
+      "tailPoint" : 0.4491882883012295,
+      "updateTime" : "2022-01-09 11:41:37",
+      "wavName" : "no_no_n_no_na_no_ni_n.wav"
+   },
+   "C4->i_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.369054850190878,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.909711305052042,
+      "symbol" : "i_NY",
+      "tailPoint" : 0.3993435464799404,
+      "updateTime" : "2022-01-09 11:46:20",
+      "wavName" : "nyo_nyo_n_nyo_nya_nyo_nyi_ny.wav"
+   },
    "C4->i_S" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 7.177861269563437,
@@ -3014,7 +3250,7 @@
    },
    "C4->i_Z" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 7.238269861787558,
+      "endTime" : 7.238269861787559,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 6.935549203306437,
@@ -3058,7 +3294,7 @@
    },
    "C4->i_d" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.210914190858603,
+      "endTime" : 3.210914190858602,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 3.006929103285074,
@@ -3210,6 +3446,17 @@
       "updateTime" : "2022-01-05 17:14:04",
       "wavName" : "m_m_a_m_i_m_u.wav"
    },
+   "C4->i_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 3.013659294694662,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 2.830421391874552,
+      "symbol" : "i_n",
+      "tailPoint" : 0.1232379041612148,
+      "updateTime" : "2022-01-09 11:37:25",
+      "wavName" : "na_na_ni_na_nu_na_ne_n.wav"
+   },
    "C4->i_ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 5.246987875550985,
@@ -3242,6 +3489,17 @@
       "tailPoint" : 0.1453180871903896,
       "updateTime" : "2022-01-05 17:12:56",
       "wavName" : "J_J_a_J_i_J_u.wav"
+   },
+   "C4->i_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.101661857217550,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9421507753431797,
+      "symbol" : "i_ny",
+      "tailPoint" : 0.09951108321547508,
+      "updateTime" : "2022-01-09 11:38:13",
+      "wavName" : "ni_ni_nu_ni_ne_ni_no_n.wav"
    },
    "C4->i_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -3358,13 +3616,13 @@
    },
    "C4->je" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.114108379930258,
+      "endTime" : 2.114108379930259,
       "pitch" : "C4",
       "preutterance" : 0.1693738065660,
       "srcType" : "CV",
       "startTime" : 1.038293663412333,
       "symbol" : "je",
-      "tailPoint" : 1.070814716517925,
+      "tailPoint" : 1.070814716517926,
       "updateTime" : "2022-01-07 13:40:02",
       "vowelEnd" : 1.015814717859030,
       "vowelStart" : 0.2553104721009731,
@@ -3378,7 +3636,7 @@
       "srcType" : "CV",
       "startTime" : 1.034065309911966,
       "symbol" : "ji",
-      "tailPoint" : 1.008215415179730,
+      "tailPoint" : 1.008215415179729,
       "updateTime" : "2022-01-07 13:34:24",
       "vowelEnd" : 0.9532154165208340,
       "vowelStart" : 0.2190658412873745,
@@ -3406,7 +3664,7 @@
       "srcType" : "CV",
       "startTime" : 0.9300839342176914,
       "symbol" : "ju",
-      "tailPoint" : 1.073652374446392,
+      "tailPoint" : 1.073652374446393,
       "updateTime" : "2022-01-07 13:35:19",
       "vowelEnd" : 1.018652375787497,
       "vowelStart" : 0.3213170133531094,
@@ -3696,6 +3954,34 @@
       "updateTime" : "2022-01-05 17:14:09",
       "wavName" : "m_m_a_m_i_m_u.wav"
    },
+   "C4->na" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.036936696618795,
+      "pitch" : "C4",
+      "preutterance" : 0.1818487010896206,
+      "srcType" : "CV",
+      "startTime" : 0.9745376743376255,
+      "symbol" : "na",
+      "tailPoint" : 1.057399022281170,
+      "updateTime" : "2022-01-09 11:37:17",
+      "vowelEnd" : 1.002399023622274,
+      "vowelStart" : 0.2358322702348232,
+      "wavName" : "na_na_ni_na_nu_na_ne_n.wav"
+   },
+   "C4->ne" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.015476997941732,
+      "pitch" : "C4",
+      "preutterance" : 0.2075155340135098,
+      "srcType" : "CV",
+      "startTime" : 0.9567416347563267,
+      "symbol" : "ne",
+      "tailPoint" : 1.053735363185406,
+      "updateTime" : "2022-01-09 11:40:43",
+      "vowelEnd" : 0.9987353645265102,
+      "vowelStart" : 0.2946837507188320,
+      "wavName" : "ne_ne_no_ne_n_ne_na_n.wav"
+   },
    "C4->ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 13.18639331683517,
@@ -3797,6 +4083,20 @@
       "tailPoint" : 0.1386228166520596,
       "updateTime" : "2022-01-05 17:15:09",
       "wavName" : "N_N_a_N_i_N_u.wav"
+   },
+   "C4->ni" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.996868785470724,
+      "pitch" : "C4",
+      "preutterance" : 0.1940522752702236,
+      "srcType" : "CV",
+      "startTime" : 0.9816618598997593,
+      "symbol" : "ni",
+      "tailPoint" : 1.010206925570965,
+      "updateTime" : "2022-01-09 11:38:21",
+      "vowelEnd" : 0.9552069269120693,
+      "vowelStart" : 0.2323226295411587,
+      "wavName" : "ni_ni_nu_ni_ne_ni_no_n.wav"
    },
    "C4->nn" : {
       "connectPoint" : 0.05999999865889549,
@@ -3944,6 +4244,28 @@
       "updateTime" : "2022-01-07 11:13:02",
       "wavName" : "ky_n_kyi_n_kya_n_kyu_ky.wav"
    },
+   "C4->nn_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.525769289582968,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 7.366283837705851,
+      "symbol" : "nn_N",
+      "tailPoint" : 0.09948545321822166,
+      "updateTime" : "2022-01-09 11:40:15",
+      "wavName" : "nu_nu_ne_nu_no_nu_n_n.wav"
+   },
+   "C4->nn_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.258523520082235,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.885273877531290,
+      "symbol" : "nn_NY",
+      "tailPoint" : 0.3132496438920498,
+      "updateTime" : "2022-01-09 11:44:34",
+      "wavName" : "nyu_nyu_nye_nyu_nyo_nyu_n_ny.wav"
+   },
    "C4->nn_S" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 7.028271254152060,
@@ -3968,7 +4290,7 @@
    },
    "C4->nn_T" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.897261675447226,
+      "endTime" : 6.897261675447227,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 6.607424203306437,
@@ -4186,6 +4508,17 @@
       "updateTime" : "2022-01-05 18:38:57",
       "wavName" : "ky_N_kye_N_kyo.wav"
    },
+   "C4->nn_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.051222439855337,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8470860756933689,
+      "symbol" : "nn_n",
+      "tailPoint" : 0.1441363655030727,
+      "updateTime" : "2022-01-09 11:41:55",
+      "wavName" : "n_n_ni_n_na_n_nu_n.wav"
+   },
    "C4->nn_nn" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 1.209360774606466,
@@ -4196,6 +4529,17 @@
       "tailPoint" : 0.1884998641908169,
       "updateTime" : "2022-01-05 17:11:44",
       "wavName" : "n_n_i_n_a_n_u.wav"
+   },
+   "C4->nn_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.095493134111166,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8826215900480747,
+      "symbol" : "nn_ny",
+      "tailPoint" : 0.1528715454041958,
+      "updateTime" : "2022-01-09 11:46:47",
+      "wavName" : "ny_J_nyi_J_nya_J_nyu.wav"
    },
    "C4->nn_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -4323,12 +4667,12 @@
    },
    "C4->nny_a" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.155856426805258,
+      "endTime" : 2.155856426805259,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 1.958438102155924,
       "symbol" : "nny_a",
-      "tailPoint" : 0.1374183259904389,
+      "tailPoint" : 0.1374183259904394,
       "updateTime" : "2022-01-05 17:12:37",
       "wavName" : "J_J_a_J_i_J_u.wav"
    },
@@ -4397,6 +4741,90 @@
       "tailPoint" : 0.1358385644853115,
       "updateTime" : "2022-01-05 17:13:00",
       "wavName" : "J_J_a_J_i_J_u.wav"
+   },
+   "C4->no" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.174954708665609,
+      "pitch" : "C4",
+      "preutterance" : 0.2123836837708950,
+      "srcType" : "CV",
+      "startTime" : 0.9710195697844029,
+      "symbol" : "no",
+      "tailPoint" : 1.198935138881207,
+      "updateTime" : "2022-01-09 11:41:28",
+      "vowelEnd" : 1.143935140222311,
+      "vowelStart" : 0.3217940889298916,
+      "wavName" : "no_no_n_no_na_no_ni_n.wav"
+   },
+   "C4->nu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.088873442262411,
+      "pitch" : "C4",
+      "preutterance" : 0.2002472244203091,
+      "srcType" : "CV",
+      "startTime" : 1.034937087446451,
+      "symbol" : "nu",
+      "tailPoint" : 1.048936354815960,
+      "updateTime" : "2022-01-09 11:40:01",
+      "vowelEnd" : 0.9939363561570644,
+      "vowelStart" : 0.2596585117280483,
+      "wavName" : "nu_nu_ne_nu_no_nu_n_n.wav"
+   },
+   "C4->nya" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.112255152314901,
+      "pitch" : "C4",
+      "preutterance" : 0.1691282354295254,
+      "srcType" : "CV",
+      "startTime" : 0.9745733179152012,
+      "symbol" : "nya",
+      "tailPoint" : 1.13268183439970,
+      "updateTime" : "2022-01-09 11:43:20",
+      "vowelEnd" : 1.077681835740805,
+      "vowelStart" : 0.3541715703904629,
+      "wavName" : "nya_nya_nyi_nya_nyu_nya_nye_ny.wav"
+   },
+   "C4->nye" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.041908200830221,
+      "pitch" : "C4",
+      "preutterance" : 0.1941919885575771,
+      "srcType" : "CV",
+      "startTime" : 0.9914340414106846,
+      "symbol" : "nye",
+      "tailPoint" : 1.045474159419537,
+      "updateTime" : "2022-01-09 11:45:10",
+      "vowelEnd" : 0.9904741607606411,
+      "vowelStart" : 0.3836396299302578,
+      "wavName" : "nye_nye_nyo_nye_n_nye_nya_ny.wav"
+   },
+   "C4->nyo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.027118261903524,
+      "pitch" : "C4",
+      "preutterance" : 0.1932004056870937,
+      "srcType" : "CV",
+      "startTime" : 0.9595838226377964,
+      "symbol" : "nyo",
+      "tailPoint" : 1.062534439265728,
+      "updateTime" : "2022-01-09 11:46:11",
+      "vowelEnd" : 1.007534440606833,
+      "vowelStart" : 0.3914151750504971,
+      "wavName" : "nyo_nyo_n_nyo_nya_nyo_nyi_ny.wav"
+   },
+   "C4->nyu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.001061137765646,
+      "pitch" : "C4",
+      "preutterance" : 0.1779733262956142,
+      "srcType" : "CV",
+      "startTime" : 0.9947060979902744,
+      "symbol" : "nyu",
+      "tailPoint" : 1.001355039775372,
+      "updateTime" : "2022-01-09 11:44:21",
+      "vowelEnd" : 0.9463550411164761,
+      "vowelStart" : 0.3950446210801601,
+      "wavName" : "nyu_nyu_nye_nyu_nyo_nyu_n_ny.wav"
    },
    "C4->o" : {
       "connectPoint" : 0.05999999865889549,
@@ -4544,6 +4972,28 @@
       "updateTime" : "2022-01-05 18:39:26",
       "wavName" : "kyo_kyo_n_kyo_kya_kyo_kyi_ky.wav"
    },
+   "C4->o_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.132666166871786,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.774539891630411,
+      "symbol" : "o_N",
+      "tailPoint" : 0.2981262765824795,
+      "updateTime" : "2022-01-09 11:39:25",
+      "wavName" : "ni_ni_nu_ni_ne_ni_no_n.wav"
+   },
+   "C4->o_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.341743048280478,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.915080491453409,
+      "symbol" : "o_NY",
+      "tailPoint" : 0.3666625581681728,
+      "updateTime" : "2022-01-09 11:43:48",
+      "wavName" : "nyi_nyi_nyu_nyi_nye_nyi_nyo_ny.wav"
+   },
    "C4->o_S" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.803743895143271,
@@ -4579,7 +5029,7 @@
    },
    "C4->o_TS" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 7.117419298738241,
+      "endTime" : 7.117419298738242,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 6.686607781797648,
@@ -4797,6 +5247,17 @@
       "updateTime" : "2022-01-05 17:14:36",
       "wavName" : "m_u_m_e_m_o_m.wav"
    },
+   "C4->o_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.091019567102194,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9256923235952854,
+      "symbol" : "o_n",
+      "tailPoint" : 0.1053272448480129,
+      "updateTime" : "2022-01-09 11:41:18",
+      "wavName" : "no_no_n_no_na_no_ni_n.wav"
+   },
    "C4->o_ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.133912142366171,
@@ -4829,6 +5290,17 @@
       "tailPoint" : 0.1680608354508877,
       "updateTime" : "2022-01-05 17:13:41",
       "wavName" : "J_u_J_e_J_o_J.wav"
+   },
+   "C4->o_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.079583819955587,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8850550688803196,
+      "symbol" : "o_ny",
+      "tailPoint" : 0.1345287524163723,
+      "updateTime" : "2022-01-09 11:46:03",
+      "wavName" : "nyo_nyo_n_nyo_nya_nyo_nyi_ny.wav"
    },
    "C4->o_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -5007,7 +5479,7 @@
       "srcType" : "CV",
       "startTime" : 0.8851012028753758,
       "symbol" : "sho",
-      "tailPoint" : 1.079971360862255,
+      "tailPoint" : 1.079971360862256,
       "updateTime" : "2022-01-07 11:01:32",
       "vowelEnd" : 1.024971362203360,
       "vowelStart" : 0.2685773335397244,
@@ -5021,7 +5493,7 @@
       "srcType" : "CV",
       "startTime" : 0.8103377260267735,
       "symbol" : "shu",
-      "tailPoint" : 1.071348654925823,
+      "tailPoint" : 1.071348654925824,
       "updateTime" : "2022-01-07 11:07:44",
       "vowelEnd" : 1.016348656266928,
       "vowelStart" : 0.3127528987824917,
@@ -5119,7 +5591,7 @@
       "srcType" : "CV",
       "startTime" : 0.8983349241316319,
       "symbol" : "to",
-      "tailPoint" : 1.102279293239117,
+      "tailPoint" : 1.102279293239116,
       "updateTime" : "2022-01-07 14:19:51",
       "vowelEnd" : 1.047279294580221,
       "vowelStart" : 0.2045517526566982,
@@ -5325,7 +5797,7 @@
    },
    "C4->u_DZ" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.182788427919149,
+      "endTime" : 6.182788427919150,
       "pitch" : "C4",
       "srcType" : "VX",
       "startTime" : 5.900421086698771,
@@ -5410,6 +5882,28 @@
       "tailPoint" : 0.2735200487077236,
       "updateTime" : "2022-01-05 18:38:22",
       "wavName" : "kyu_kyu_kye_kyu_kyo_kyu_ky.wav"
+   },
+   "C4->u_N" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.274528082460165,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 5.839016858488321,
+      "symbol" : "u_N",
+      "tailPoint" : 0.3755112253129482,
+      "updateTime" : "2022-01-09 11:42:03",
+      "wavName" : "n_n_ni_n_na_n_nu_n.wav"
+   },
+   "C4->u_NY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.307316359132528,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 5.838032189756632,
+      "symbol" : "u_NY",
+      "tailPoint" : 0.4092841707170010,
+      "updateTime" : "2022-01-09 11:46:35",
+      "wavName" : "ny_n_nyi_n_nya_n_nyu_ny.wav"
    },
    "C4->u_S" : {
       "connectPoint" : 0.05999999865889549,
@@ -5664,6 +6158,17 @@
       "updateTime" : "2022-01-05 17:14:16",
       "wavName" : "m_u_m_e_m_o_m.wav"
    },
+   "C4->u_n" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.154937084764242,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9401075281202793,
+      "symbol" : "u_n",
+      "tailPoint" : 0.1548295579850674,
+      "updateTime" : "2022-01-09 11:39:51",
+      "wavName" : "nu_nu_ne_nu_no_nu_n_n.wav"
+   },
    "C4->u_ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 2.169940050691366,
@@ -5696,6 +6201,17 @@
       "tailPoint" : 0.1295986734330654,
       "updateTime" : "2022-01-05 17:13:21",
       "wavName" : "J_u_J_e_J_o_J.wav"
+   },
+   "C4->u_ny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.114706095308065,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9207760132849217,
+      "symbol" : "u_ny",
+      "tailPoint" : 0.1339300833642483,
+      "updateTime" : "2022-01-09 11:44:11",
+      "wavName" : "nyu_nyu_nye_nyu_nyo_nyu_n_ny.wav"
    },
    "C4->u_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -5818,9 +6334,9 @@
       "srcType" : "CV",
       "startTime" : 1.137957397848368,
       "symbol" : "ze",
-      "tailPoint" : 0.9794839498400689,
+      "tailPoint" : 0.9794839498400687,
       "updateTime" : "2022-01-07 13:17:12",
-      "vowelEnd" : 0.9244839511811733,
+      "vowelEnd" : 0.9244839511811731,
       "vowelStart" : 0.2249179445207119,
       "wavName" : "z0e_z0e_z0o_z0e_n_z0e_z0a_z0.wav"
    },
@@ -5854,7 +6370,7 @@
    },
    "C4->zhi" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.037410791963339,
+      "endTime" : 2.037410791963338,
       "pitch" : "C4",
       "preutterance" : 0.1506478153169155,
       "srcType" : "CV",
@@ -5932,7 +6448,7 @@
       "symbol" : "zu",
       "tailPoint" : 1.037410008609295,
       "updateTime" : "2022-01-07 13:16:25",
-      "vowelEnd" : 0.9824100099503994,
+      "vowelEnd" : 0.9824100099503992,
       "vowelStart" : 0.2115070186555386,
       "wavName" : "z0u_z0u_z0e_z0u_z0o_z0u_n_z0.wav"
    }
