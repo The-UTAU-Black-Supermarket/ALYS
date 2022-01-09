@@ -13,6 +13,132 @@
       "vowelStart" : 0.243417564779520,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->-ba" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.065160688012838,
+      "pitch" : "C4",
+      "preutterance" : 0.1299436651170254,
+      "srcType" : "CV",
+      "startTime" : 0.03589310124516487,
+      "symbol" : "-ba",
+      "tailPoint" : 1.024267586767674,
+      "updateTime" : "2022-01-09 13:52:43",
+      "vowelEnd" : 0.9692675881087780,
+      "vowelStart" : 0.2014078460633755,
+      "wavName" : "ba_ba_bi_ba_bu_ba_be_b.wav"
+   },
+   "C4->-be" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.080247100442648,
+      "pitch" : "C4",
+      "preutterance" : 0.1463714130222797,
+      "srcType" : "CV",
+      "startTime" : 0.04624074324965477,
+      "symbol" : "-be",
+      "tailPoint" : 1.029006357192993,
+      "updateTime" : "2022-01-09 15:26:01",
+      "vowelEnd" : 0.9740063585340977,
+      "vowelStart" : 0.2119699455797672,
+      "wavName" : "be_be_bo_be_n_be_ba_b.wav"
+   },
+   "C4->-bi" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.066705521196127,
+      "pitch" : "C4",
+      "preutterance" : 0.1459397934377194,
+      "srcType" : "CV",
+      "startTime" : 0.02152654901146889,
+      "symbol" : "-bi",
+      "tailPoint" : 1.040178972184658,
+      "updateTime" : "2022-01-09 15:05:28",
+      "vowelEnd" : 0.9851789735257626,
+      "vowelStart" : 0.1915621571242809,
+      "wavName" : "bi_bi_bu_bi_be_bi_bo_b.wav"
+   },
+   "C4->-bo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.068572100251913,
+      "pitch" : "C4",
+      "preutterance" : 0.1568111367523670,
+      "srcType" : "CV",
+      "startTime" : 0.02656124159693718,
+      "symbol" : "-bo",
+      "tailPoint" : 1.037010858654976,
+      "updateTime" : "2022-01-09 15:27:55",
+      "vowelEnd" : 0.9820108599960804,
+      "vowelStart" : 0.2659157700836659,
+      "wavName" : "bo_bo_n_bo_ba_bo_bi_b.wav"
+   },
+   "C4->-bu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.036173399537802,
+      "pitch" : "C4",
+      "preutterance" : 0.1409585587680340,
+      "srcType" : "CV",
+      "startTime" : 0.02251544967293739,
+      "symbol" : "-bu",
+      "tailPoint" : 1.008657949864865,
+      "updateTime" : "2022-01-09 15:25:23",
+      "vowelEnd" : 0.9536579512059689,
+      "vowelStart" : 0.2250309102237225,
+      "wavName" : "bu_bu_be_bu_bo_bu_n_b.wav"
+   },
+   "C4->-bya" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 0.9978679977357388,
+      "pitch" : "C4",
+      "preutterance" : 0.1186167486011982,
+      "srcType" : "CV",
+      "startTime" : 0.003244388848543167,
+      "symbol" : "-bya",
+      "tailPoint" : 0.9896236088871956,
+      "updateTime" : "2022-01-09 17:56:41",
+      "vowelEnd" : 0.9346236102283001,
+      "vowelStart" : 0.3330306522548199,
+      "wavName" : "bya_bya_byi_bya_byu_bya_bye_by.wav"
+   },
+   "C4->-bye" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 0.9972383342683315,
+      "pitch" : "C4",
+      "preutterance" : 0.09237294271588326,
+      "srcType" : "CV",
+      "startTime" : 0.04479135200381279,
+      "symbol" : "-bye",
+      "tailPoint" : 0.9474469822645187,
+      "updateTime" : "2022-01-09 17:59:08",
+      "vowelEnd" : 0.8924469836056233,
+      "vowelStart" : 0.2187815494835377,
+      "wavName" : "bye_bye_byo_bye_n_bye_bya_by.wav"
+   },
+   "C4->-byo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.107457097619772,
+      "pitch" : "C4",
+      "preutterance" : 0.1550347097218037,
+      "srcType" : "CV",
+      "startTime" : 0.03055585548281670,
+      "symbol" : "-byo",
+      "tailPoint" : 1.071901242136955,
+      "updateTime" : "2022-01-09 18:00:36",
+      "vowelEnd" : 1.016901243478060,
+      "vowelStart" : 0.3309035487473011,
+      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
+   },
+   "C4->-byu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.064993198961020,
+      "pitch" : "C4",
+      "preutterance" : 0.1245972625911236,
+      "srcType" : "CV",
+      "startTime" : 0.04843089357018471,
+      "symbol" : "-byu",
+      "tailPoint" : 1.011562305390835,
+      "updateTime" : "2022-01-09 17:58:13",
+      "vowelEnd" : 0.9565623067319393,
+      "vowelStart" : 0.3307201229035854,
+      "wavName" : "byu_byu_bye_byu_byo_byu_n_by.wav"
+   },
    "C4->-cha" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 1.018273945897818,
@@ -1704,6 +1830,28 @@
       "updateTime" : "2022-01-05 16:55:50",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->a_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.294523295015097,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.960234586149454,
+      "symbol" : "a_B",
+      "tailPoint" : 0.2742887102067471,
+      "updateTime" : "2022-01-09 15:26:28",
+      "wavName" : "be_be_bo_be_n_be_ba_b.wav"
+   },
+   "C4->a_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.234832342714071,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.852765981107950,
+      "symbol" : "a_BY",
+      "tailPoint" : 0.3220663629472256,
+      "updateTime" : "2022-01-09 18:00:15",
+      "wavName" : "bye_bye_byo_bye_n_bye_bya_by.wav"
+   },
    "C4->a_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.806535776704550,
@@ -1978,6 +2126,28 @@
       "tailPoint" : 0.2176476083695889,
       "updateTime" : "2022-01-05 17:09:22",
       "wavName" : "a_a_i_a_u_a_e.wav"
+   },
+   "C4->a_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.113817151635885,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9451606906950474,
+      "symbol" : "a_b",
+      "tailPoint" : 0.1086564622819424,
+      "updateTime" : "2022-01-09 13:58:14",
+      "wavName" : "ba_ba_bi_ba_bu_ba_be_b.wav"
+   },
+   "C4->a_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.050314541906118,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8778680004179478,
+      "symbol" : "a_by",
+      "tailPoint" : 0.1124465428292751,
+      "updateTime" : "2022-01-09 17:56:53",
+      "wavName" : "bya_bya_byi_bya_byu_bya_bye_by.wav"
    },
    "C4->a_ch" : {
       "connectPoint" : 0.05999999865889549,
@@ -2342,6 +2512,132 @@
       "updateTime" : "2022-01-07 13:43:29",
       "wavName" : "j0a_j0a_j0i_j0a_j0u_j0a_j0e_j0.wav"
    },
+   "C4->ba" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.006927188485861,
+      "pitch" : "C4",
+      "preutterance" : 0.1390667520463467,
+      "srcType" : "CV",
+      "startTime" : 0.9938171543180943,
+      "symbol" : "ba",
+      "tailPoint" : 1.008110034167767,
+      "updateTime" : "2022-01-09 13:58:23",
+      "vowelEnd" : 0.9531100355088711,
+      "vowelStart" : 0.1922847591340542,
+      "wavName" : "ba_ba_bi_ba_bu_ba_be_b.wav"
+   },
+   "C4->be" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.026814039796591,
+      "pitch" : "C4",
+      "preutterance" : 0.1723721586167812,
+      "srcType" : "CV",
+      "startTime" : 1.002886120229960,
+      "symbol" : "be",
+      "tailPoint" : 1.018927919566631,
+      "updateTime" : "2022-01-09 15:26:18",
+      "vowelEnd" : 0.9639279209077358,
+      "vowelStart" : 0.2335974536836147,
+      "wavName" : "be_be_bo_be_n_be_ba_b.wav"
+   },
+   "C4->bi" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.982485588639975,
+      "pitch" : "C4",
+      "preutterance" : 0.1492724977433682,
+      "srcType" : "CV",
+      "startTime" : 0.9891449846327305,
+      "symbol" : "bi",
+      "tailPoint" : 0.9883406040072442,
+      "updateTime" : "2022-01-09 15:05:45",
+      "vowelEnd" : 0.9333406053483486,
+      "vowelStart" : 0.2171755395829678,
+      "wavName" : "bi_bi_bu_bi_be_bi_bo_b.wav"
+   },
+   "C4->bo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.151342447847128,
+      "pitch" : "C4",
+      "preutterance" : 0.1485353074967861,
+      "srcType" : "CV",
+      "startTime" : 1.039236489683390,
+      "symbol" : "bo",
+      "tailPoint" : 1.107105958163738,
+      "updateTime" : "2022-01-09 17:55:00",
+      "vowelEnd" : 1.052105959504843,
+      "vowelStart" : 0.2576399408280850,
+      "wavName" : "bo_bo_n_bo_ba_bo_bi_b.wav"
+   },
+   "C4->bu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.035287674516439,
+      "pitch" : "C4",
+      "preutterance" : 0.1654563508927822,
+      "srcType" : "CV",
+      "startTime" : 0.9597664512693882,
+      "symbol" : "bu",
+      "tailPoint" : 1.070521223247051,
+      "updateTime" : "2022-01-09 15:25:37",
+      "vowelEnd" : 1.015521224588156,
+      "vowelStart" : 0.2433010898530483,
+      "wavName" : "bu_bu_be_bu_bo_bu_n_b.wav"
+   },
+   "C4->bya" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.978137549012899,
+      "pitch" : "C4",
+      "preutterance" : 0.1510102711617947,
+      "srcType" : "CV",
+      "startTime" : 0.9303145445883274,
+      "symbol" : "bya",
+      "tailPoint" : 1.042823004424572,
+      "updateTime" : "2022-01-09 17:57:04",
+      "vowelEnd" : 0.9878230057656765,
+      "vowelStart" : 0.3654241524636746,
+      "wavName" : "bya_bya_byi_bya_byu_bya_bye_by.wav"
+   },
+   "C4->bye" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.998422201722860,
+      "pitch" : "C4",
+      "preutterance" : 0.2110736928880215,
+      "srcType" : "CV",
+      "startTime" : 0.9404426254332066,
+      "symbol" : "bye",
+      "tailPoint" : 1.052979576289654,
+      "updateTime" : "2022-01-09 18:00:06",
+      "vowelEnd" : 0.9979795776307583,
+      "vowelStart" : 0.3852708898484707,
+      "wavName" : "bye_bye_byo_bye_n_bye_bya_by.wav"
+   },
+   "C4->byo" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.133001621812582,
+      "pitch" : "C4",
+      "preutterance" : 0.1155350767076016,
+      "srcType" : "CV",
+      "startTime" : 1.032243553549051,
+      "symbol" : "byo",
+      "tailPoint" : 1.095758068263531,
+      "updateTime" : "2022-01-09 18:00:55",
+      "vowelEnd" : 1.040758069604635,
+      "vowelStart" : 0.3045120798051357,
+      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
+   },
+   "C4->byu" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 2.063512858003378,
+      "pitch" : "C4",
+      "preutterance" : 0.1329136453568935,
+      "srcType" : "CV",
+      "startTime" : 1.020444814115763,
+      "symbol" : "byu",
+      "tailPoint" : 1.038068043887615,
+      "updateTime" : "2022-01-09 17:58:34",
+      "vowelEnd" : 0.9830680452287197,
+      "vowelStart" : 0.3395023904740810,
+      "wavName" : "byu_byu_bye_byu_byo_byu_n_by.wav"
+   },
    "C4->cha" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 1.991430696099997,
@@ -2633,6 +2929,28 @@
       "updateTime" : "2022-01-05 17:07:08",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->e_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.121819075196981,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.833042088896036,
+      "symbol" : "e_B",
+      "tailPoint" : 0.2287769876420498,
+      "updateTime" : "2022-01-09 15:05:08",
+      "wavName" : "ba_ba_bi_ba_bu_ba_be_b.wav"
+   },
+   "C4->e_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.242653902620077,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.917495194822550,
+      "symbol" : "e_BY",
+      "tailPoint" : 0.2651587091386318,
+      "updateTime" : "2022-01-09 17:57:15",
+      "wavName" : "bya_bya_byi_bya_byu_bya_bye_by.wav"
+   },
    "C4->e_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.866292532533407,
@@ -2907,6 +3225,28 @@
       "tailPoint" : 0.1892929635941982,
       "updateTime" : "2022-01-05 17:11:09",
       "wavName" : "e_e_o_e_n_e_a.wav"
+   },
+   "C4->e_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.122886117547751,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9602471031248570,
+      "symbol" : "e_b",
+      "tailPoint" : 0.1026390157639980,
+      "updateTime" : "2022-01-09 15:26:06",
+      "wavName" : "be_be_bo_be_n_be_ba_b.wav"
+   },
+   "C4->e_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.060442622750998,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.8772383369505405,
+      "symbol" : "e_by",
+      "tailPoint" : 0.1232042871415615,
+      "updateTime" : "2022-01-09 17:59:56",
+      "wavName" : "bye_bye_byo_bye_n_bye_bya_by.wav"
    },
    "C4->e_ch" : {
       "connectPoint" : 0.05999999865889549,
@@ -3730,6 +4070,28 @@
       "updateTime" : "2022-01-05 16:56:24",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->i_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.224581297487021,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.897129002958536,
+      "symbol" : "i_B",
+      "tailPoint" : 0.2674522958695889,
+      "updateTime" : "2022-01-09 17:55:12",
+      "wavName" : "bo_bo_n_bo_ba_bo_bi_b.wav"
+   },
+   "C4->i_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.221719320863485,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.839554730802774,
+      "symbol" : "i_BY",
+      "tailPoint" : 0.3221645914018154,
+      "updateTime" : "2022-01-09 18:06:43",
+      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
+   },
    "C4->i_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.885580118745565,
@@ -4004,6 +4366,28 @@
       "tailPoint" : 0.1900742612779141,
       "updateTime" : "2022-01-05 17:09:34",
       "wavName" : "a_a_i_a_u_a_e.wav"
+   },
+   "C4->i_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 3.010137375444174,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 2.855165425688028,
+      "symbol" : "i_b",
+      "tailPoint" : 0.09497195109724999,
+      "updateTime" : "2022-01-09 13:58:34",
+      "wavName" : "ba_ba_bi_ba_bu_ba_be_b.wav"
+   },
+   "C4->i_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.109144981950522,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9467055238783360,
+      "symbol" : "i_by",
+      "tailPoint" : 0.102439459413290,
+      "updateTime" : "2022-01-09 15:05:35",
+      "wavName" : "bi_bi_bu_bi_be_bi_bo_b.wav"
    },
    "C4->i_ch" : {
       "connectPoint" : 0.05999999865889549,
@@ -4891,6 +5275,28 @@
       "updateTime" : "2022-01-05 17:07:40",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->nn_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.247192915529013,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.917012158781290,
+      "symbol" : "nn_B",
+      "tailPoint" : 0.2701807580888271,
+      "updateTime" : "2022-01-09 15:25:44",
+      "wavName" : "bu_bu_be_bu_bo_bu_n_b.wav"
+   },
+   "C4->nn_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.345736559480429,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 7.037376347929239,
+      "symbol" : "nn_BY",
+      "tailPoint" : 0.2483602128922939,
+      "updateTime" : "2022-01-09 17:58:43",
+      "wavName" : "byu_byu_bye_byu_byo_byu_n_by.wav"
+   },
    "C4->nn_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.961922224611044,
@@ -5165,6 +5571,28 @@
       "tailPoint" : 0.1897179447114468,
       "updateTime" : "2022-01-05 17:11:53",
       "wavName" : "n_n_i_n_a_n_u.wav"
+   },
+   "C4->nn_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.094167884439230,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9391935504972935,
+      "symbol" : "nn_b",
+      "tailPoint" : 0.0949743352830410,
+      "updateTime" : "2022-01-09 17:55:57",
+      "wavName" : "b_m_ba_m_bi_m_bu.wav"
+   },
+   "C4->nn_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.093489464372397,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9203549064695835,
+      "symbol" : "nn_by",
+      "tailPoint" : 0.1131345592439175,
+      "updateTime" : "2022-01-09 18:01:52",
+      "wavName" : "by_m_byi_m_bya_m_byu.wav"
    },
    "C4->nn_ch" : {
       "connectPoint" : 0.05999999865889549,
@@ -5707,6 +6135,28 @@
       "updateTime" : "2022-01-05 17:07:24",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->o_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.118827398866415,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.859838429838419,
+      "symbol" : "o_B",
+      "tailPoint" : 0.1989889703691006,
+      "updateTime" : "2022-01-09 15:06:03",
+      "wavName" : "bi_bi_bu_bi_be_bi_bo_b.wav"
+   },
+   "C4->o_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 7.219908770173788,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 6.831190053373575,
+      "symbol" : "o_BY",
+      "tailPoint" : 0.3287187181413174,
+      "updateTime" : "2022-01-09 18:01:07",
+      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
+   },
    "C4->o_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.893381174653769,
@@ -5981,6 +6431,28 @@
       "tailPoint" : 0.1565642915666095,
       "updateTime" : "2022-01-05 17:11:27",
       "wavName" : "o_o_n_o_a_o_i.wav"
+   },
+   "C4->o_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.159236487001181,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9485721029341221,
+      "symbol" : "o_b",
+      "tailPoint" : 0.1506643854081631,
+      "updateTime" : "2022-01-09 15:28:02",
+      "wavName" : "bo_bo_n_bo_ba_bo_bi_b.wav"
+   },
+   "C4->o_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.152243550866842,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9874571003019810,
+      "symbol" : "o_by",
+      "tailPoint" : 0.1047864519059658,
+      "updateTime" : "2022-01-09 18:00:43",
+      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
    },
    "C4->o_ch" : {
       "connectPoint" : 0.05999999865889549,
@@ -6706,6 +7178,28 @@
       "updateTime" : "2022-01-05 16:57:08",
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
+   "C4->u_B" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.143593844026327,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 5.863298837095499,
+      "symbol" : "u_B",
+      "tailPoint" : 0.2202950082719326,
+      "updateTime" : "2022-01-09 17:55:41",
+      "wavName" : "b_n_bi_n_ba_n_bu_b.wav"
+   },
+   "C4->u_BY" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 6.113757666200399,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 5.737837735563517,
+      "symbol" : "u_BY",
+      "tailPoint" : 0.3159199319779873,
+      "updateTime" : "2022-01-09 18:01:34",
+      "wavName" : "by_n_byi_n_bya_n_byu_b.wav"
+   },
    "C4->u_CH" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 6.084787901490927,
@@ -6980,6 +7474,28 @@
       "tailPoint" : 0.1770663820207119,
       "updateTime" : "2022-01-05 17:09:41",
       "wavName" : "a_a_i_a_u_a_e.wav"
+   },
+   "C4->u_b" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.079766448587179,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9161734022200108,
+      "symbol" : "u_b",
+      "tailPoint" : 0.1035930477082729,
+      "updateTime" : "2022-01-09 15:25:29",
+      "wavName" : "bu_bu_be_bu_bo_bu_n_b.wav"
+   },
+   "C4->u_by" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.140444811433554,
+      "pitch" : "C4",
+      "srcType" : "VX",
+      "startTime" : 0.9449932016432285,
+      "symbol" : "u_by",
+      "tailPoint" : 0.1354516111314297,
+      "updateTime" : "2022-01-09 17:58:24",
+      "wavName" : "byu_byu_bye_byu_byo_byu_n_by.wav"
    },
    "C4->u_ch" : {
       "connectPoint" : 0.05999999865889549,

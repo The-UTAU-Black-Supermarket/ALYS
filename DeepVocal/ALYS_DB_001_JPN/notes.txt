@@ -233,8 +233,8 @@ byi_byi_byu_byi_bye_byi_byo_by.wav
 byu_byu_bye_byu_byo_byu_n_by.wav
 bye_bye_byo_bye_n_bye_bya_by.wav
 byo_byo_n_byo_bya_byo_byi_by.wav
-by_m_byi_m_bya_m_byu.wav
 by_n_byi_n_bya_n_byu_b.wav
+by_m_byi_m_bya_m_byu.wav
 by_m_bye_m_byo.wav
 
 pa_pa_pi_pa_pu_pa_pe_p.wav
