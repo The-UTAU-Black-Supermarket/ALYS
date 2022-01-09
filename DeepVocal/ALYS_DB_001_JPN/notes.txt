@@ -270,8 +270,8 @@ myu_myu_mye_myu_myo_myu_n_my.wav
 mye_mye_myo_mye_n_mye_mya_my.wav
 myo_myo_n_myo_mya_myo_myi_my.wav
 my_n_myi_n_mya_n_myu_my.wav
-my_m_mye_m_myo.wav
 my_m_myi_m_mya_m_myu.wav
+my_m_mye_m_myo.wav
 
 ya_ya_yi_ya_yu_ya_ye_y.wav
 yi_yi_yu_yi_ye_yi_yo_y.wav
