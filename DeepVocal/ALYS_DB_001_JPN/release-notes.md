@@ -32,75 +32,36 @@ There are three full pitches (C4 E4 A4) and three additional vowel-only pitches 
 ## Extra phonemes
 Besides standard Japanese syllables, the following extra syllables have been included in this voicebank.
 
-| Romaji | Hiragana |
-| - | - |
-| kye | きぇ |
-| kwa | くぁ |
-| kwi | くぃ |
-| kwe | くぇ |
-| kwo | くぉ |
-| gye | ぎぇ |
-| gwa | ぐぁ |
-| gwi | ぐぃ |
-| gwe | ぐぇ |
-| gwo | ぐぉ |
-| si | すぃ |
-| she | しぇ |
-| zi | ずぃ |
-| je | じぇ |
-| zha | ジャ |
-| zhi | ジ |
-| zhu | ジュ |
-| zhe | ジェ |
-| zho | ジョ |
-| ti | てぃ |
-| tu | とぅ |
-| tya | てゃ |
-| tyu | てゅ |
-| tye | てぇ |
-| tyo | てょ |
-| che | ちぇ |
-| tsa | つぁ |
-| tsi | つぃ |
-| tse | つぇ |
-| tso | つぉ |
-| di | でぃ |
-| du | どぅ |
-| dya | でゃ |
-| dyu | でゅ |
-| dye | でぇ |
-| dyo | でょ |
-| dza | づぁ |
-| dzi | づぃ |
-| dzu | づ |
-| dze | づぇ |
-| dzo | づぉ |
-| nye | にぇ |
-| hu | ほぅ |
-| hye | ひぇ |
-| fa | ふぁ |
-| fi | ふぃ |
-| fe | ふぇ |
-| fo | ふぉ |
-| fya | ふゃ |
-| fyu | ふゅ |
-| fye | ふぃぇ |
-| fyo | ふょ |
-| bye | びぇ |
-| pye | ぴぇ |
-| mye | みぇ |
-| yi | いぃ |
-| ye | いぇ |
-| rye | りぇ |
-| la | ラ |
-| li | リ |
-| lu | ル |
-| le | レ |
-| lo | ロ |
-| wi | うぃ |
-| wu | うぅ |
-| we | うぇ |
-| wo | うぉ |
+| Consonant | IPA | Romaji | Hiragana | Romaji | Hiragana | Romaji | Hiragana | Romaji | Hiragana | Romaji | Hiragana |
+| - | - | - | - | - | - | - | - | - | - | - | - |
+| ky | kʲ |  |  |  |  |  |  | kye | きぇ |  |  |
+| kw | kʷ | kwa | くぁ | kwi | くぃ |  |  | kwe | くぇ | kwo | くぉ |
+| gy | ɡʲ |  |  |  |  |  |  | gye | ぎぇ |  |  |
+| gw | ɡʷ | gwa | ぐぁ | gwi | ぐぃ |  |  | gwe | ぐぇ | gwo | ぐぉ |
+| s | s |  |  | si | すぃ |  |  |  |  |  |  |
+| sh | ʃ |  |  |  |  |  |  | she | しぇ |  |  |
+| z | z |  |  | zi | ずぃ |  |  |  |  |  |  |
+| j | d͡ʒ |  |  |  |  |  |  | je | じぇ |  |  |
+| zh | ʒ | zha | ジャ | zhi | ジ | zhu | ジュ | zhe | ジェ | zho | ジョ |
+| t | t |  |  | ti | てぃ | tu | とぅ |  |  |  |  |
+| ty | tʲ | tya | てゃ |  |  | tyu | てゅ | tye | てぇ | tyo | てょ |
+| ch | t͡ʃ |  |  |  |  |  |  | che | ちぇ |  |  |
+| ts | t͡s | tsa | つぁ | tsi | つぃ |  |  | tse | つぇ | tso | つぉ |
+| d | d |  |  | di | でぃ | du | どぅ |  |  |  |  |
+| dy | dʲ | dya | でゃ |  |  | dyu | でゅ | dye | でぇ | dyo | でょ |
+| dz | d͡z | dza | づぁ | dzi | づぃ | dzu | づ | dze | づぇ | dzo | づぉ |
+| ny | ɲ |  |  |  |  |  |  | nye | にぇ |  |  |
+| h | h |  |  |  |  | hu | ほぅ |  |  |  |  |
+| hy | ç |  |  |  |  |  |  | hye | ひぇ |  |  |
+| f | ɸ | fa | ふぁ | fi | ふぃ |  |  | fe | ふぇ | fo | ふぉ |
+| fy | ɸʲ | fya | ふゃ |  |  | fyu | ふゅ | fye | ふぃぇ | fyo | ふょ |
+| by | bʲ |  |  |  |  |  |  | bye | びぇ |  |  |
+| py | pʲ |  |  |  |  |  |  | pye | ぴぇ |  |  |
+| my | mʲ |  |  |  |  |  |  | mye | みぇ |  |  |
+| y | j |  |  | yi | いぃ |  |  | ye | いぇ |  |  |
+| ry | ɾʲ |  |  |  |  |  |  | rye | りぇ |  |  |
+| l | l | la | ラ | li | リ | lu | ル | le | レ | lo | ロ |
+| w | w |  |  | wi | うぃ | wu | うぅ | we | うぇ | wo | うぉ |
 
 ## Variant ん
 There are 4 different pronunciations of ん available for different contexts. You must manually specify which variation to use in note lyrics.
