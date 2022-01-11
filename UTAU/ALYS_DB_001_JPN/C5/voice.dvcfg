@@ -7,7 +7,7 @@
       "srcType" : "CV",
       "startTime" : 0.08819921687245369,
       "symbol" : "-a",
-      "tailPoint" : 1.117365452349186,
+      "tailPoint" : 1.117365452349187,
       "updateTime" : "2022-01-05 10:39:59",
       "vowelEnd" : 1.062365453690291,
       "vowelStart" : 0.1191729120910168,
@@ -174,7 +174,7 @@
    },
    "C5->a_hh" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.326872285455465,
+      "endTime" : 1.326872285455466,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 1.006154362112284,
@@ -218,7 +218,7 @@
    },
    "C5->a_nn" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.043062265962362,
+      "endTime" : 3.043062265962363,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 2.883124772459269,
@@ -287,7 +287,7 @@
    },
    "C5->e_a" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.216361578553915,
+      "endTime" : 6.216361578553914,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 5.963855210691690,
@@ -320,7 +320,7 @@
    },
    "C5->e_i" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 5.200262125581503,
+      "endTime" : 5.200262125581504,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 4.986565057188273,
@@ -369,7 +369,7 @@
       "srcType" : "VX",
       "startTime" : 3.931729737669230,
       "symbol" : "e_nny",
-      "tailPoint" : 0.1195931993424892,
+      "tailPoint" : 0.1195931993424888,
       "updateTime" : "2022-01-05 10:48:31",
       "wavName" : "J_u_J_e_J_o_J.wav"
    },
@@ -397,7 +397,7 @@
    },
    "C5->i" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.273760851472616,
+      "endTime" : 3.273760851472617,
       "pitch" : "C5",
       "preutterance" : 0.07329779490828514,
       "srcType" : "CV",
@@ -444,7 +444,7 @@
    },
    "C5->i_hh" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.331511076539755,
+      "endTime" : 3.331511076539754,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 3.059067193418741,
@@ -544,94 +544,6 @@
       "vowelStart" : 0.1470962129533291,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
    },
-   "C5->mm_-" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 15.22630172595382,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 15.00601047649980,
-      "symbol" : "mm_-",
-      "tailPoint" : 0.1602912507951260,
-      "updateTime" : "2022-01-05 10:42:54",
-      "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
-   },
-   "C5->mm_a" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.169179733842611,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 1.983132783323526,
-      "symbol" : "mm_a",
-      "tailPoint" : 0.1260469518601894,
-      "updateTime" : "2022-01-05 10:48:59",
-      "wavName" : "m_m_a_m_i_m_u.wav"
-   },
-   "C5->mm_e" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.084982689470053,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 2.911513749510050,
-      "symbol" : "mm_e",
-      "tailPoint" : 0.1134689413011074,
-      "updateTime" : "2022-01-05 10:49:34",
-      "wavName" : "m_u_m_e_m_o_m.wav"
-   },
-   "C5->mm_hh" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 15.23636489734054,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 14.97154277935624,
-      "symbol" : "mm_hh",
-      "tailPoint" : 0.2048221193253994,
-      "updateTime" : "2022-01-05 10:44:10",
-      "wavName" : "-ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav"
-   },
-   "C5->mm_i" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 4.131877955049276,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 3.955205384641886,
-      "symbol" : "mm_i",
-      "tailPoint" : 0.1166725717484951,
-      "updateTime" : "2022-01-05 10:49:11",
-      "wavName" : "m_m_a_m_i_m_u.wav"
-   },
-   "C5->mm_mm" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.189475115388632,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 0.8907607235014439,
-      "symbol" : "mm_mm",
-      "tailPoint" : 0.2387143932282925,
-      "updateTime" : "2022-01-05 10:48:52",
-      "wavName" : "m_m_a_m_i_m_u.wav"
-   },
-   "C5->mm_o" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 4.997500952333212,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 4.838156167417765,
-      "symbol" : "mm_o",
-      "tailPoint" : 0.09934478625655174,
-      "updateTime" : "2022-01-05 10:49:42",
-      "wavName" : "m_u_m_e_m_o_m.wav"
-   },
-   "C5->mm_u" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.159381922334433,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 5.987183991819620,
-      "symbol" : "mm_u",
-      "tailPoint" : 0.1121979318559170,
-      "updateTime" : "2022-01-05 10:49:22",
-      "wavName" : "m_m_a_m_i_m_u.wav"
-   },
    "C5->ng" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 13.08283382281661,
@@ -645,94 +557,6 @@
       "vowelEnd" : 1.122305449098349,
       "vowelStart" : 0.1365390382707119,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
-   },
-   "C5->ng_-" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 13.16941409930587,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 12.97815364971757,
-      "symbol" : "ng_-",
-      "tailPoint" : 0.1312604509294033,
-      "updateTime" : "2022-01-05 10:42:36",
-      "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
-   },
-   "C5->ng_a" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.053305562585592,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 1.861281577497721,
-      "symbol" : "ng_a",
-      "tailPoint" : 0.1320239864289761,
-      "updateTime" : "2022-01-05 10:50:02",
-      "wavName" : "N_N_a_N_i_N_u.wav"
-   },
-   "C5->ng_e" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.012280520051718,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 2.839116279035807,
-      "symbol" : "ng_e",
-      "tailPoint" : 0.1131642423570156,
-      "updateTime" : "2022-01-05 10:50:30",
-      "wavName" : "N_u_N_e_N_o_N.wav"
-   },
-   "C5->ng_hh" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 13.20082527026534,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 12.91821807995439,
-      "symbol" : "ng_hh",
-      "tailPoint" : 0.2226071916520596,
-      "updateTime" : "2022-01-05 10:44:04",
-      "wavName" : "-ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav"
-   },
-   "C5->ng_i" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 4.057527836412191,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 3.882009450346232,
-      "symbol" : "ng_i",
-      "tailPoint" : 0.1155183874070644,
-      "updateTime" : "2022-01-05 10:50:11",
-      "wavName" : "N_N_a_N_i_N_u.wav"
-   },
-   "C5->ng_ng" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.312612470239401,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 0.995572391897440,
-      "symbol" : "ng_ng",
-      "tailPoint" : 0.2570400796830654,
-      "updateTime" : "2022-01-05 10:49:56",
-      "wavName" : "N_N_a_N_i_N_u.wav"
-   },
-   "C5->ng_o" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 5.049876268953085,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 4.881142083555460,
-      "symbol" : "ng_o",
-      "tailPoint" : 0.1087341867387295,
-      "updateTime" : "2022-01-05 10:50:41",
-      "wavName" : "N_u_N_e_N_o_N.wav"
-   },
-   "C5->ng_u" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.023309763520956,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 5.844790402799845,
-      "symbol" : "ng_u",
-      "tailPoint" : 0.1185193620622158,
-      "updateTime" : "2022-01-05 10:50:20",
-      "wavName" : "N_N_a_N_i_N_u.wav"
    },
    "C5->nn" : {
       "connectPoint" : 0.05999999865889549,
@@ -803,6 +627,28 @@
       "updateTime" : "2022-01-05 10:47:21",
       "wavName" : "n_n_i_n_a_n_u.wav"
    },
+   "C5->nn_mm" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.189475115388632,
+      "pitch" : "C5",
+      "srcType" : "VX",
+      "startTime" : 0.8907607235014439,
+      "symbol" : "nn_mm",
+      "tailPoint" : 0.2387143932282925,
+      "updateTime" : "2022-01-11 16:22:57",
+      "wavName" : "m_m_a_m_i_m_u.wav"
+   },
+   "C5->nn_ng" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.312612470239401,
+      "pitch" : "C5",
+      "srcType" : "VX",
+      "startTime" : 0.995572391897440,
+      "symbol" : "nn_ng",
+      "tailPoint" : 0.2570400796830654,
+      "updateTime" : "2022-01-11 16:23:04",
+      "wavName" : "N_N_a_N_i_N_u.wav"
+   },
    "C5->nn_nn" : {
       "connectPoint" : 0.05999999865889549,
       "endTime" : 1.209360774606466,
@@ -813,6 +659,17 @@
       "tailPoint" : 0.1884998641908169,
       "updateTime" : "2022-01-05 10:47:02",
       "wavName" : "n_n_i_n_a_n_u.wav"
+   },
+   "C5->nn_nny" : {
+      "connectPoint" : 0.05999999865889549,
+      "endTime" : 1.181801136583090,
+      "pitch" : "C5",
+      "srcType" : "VX",
+      "startTime" : 0.8806406892836094,
+      "symbol" : "nn_nny",
+      "tailPoint" : 0.2411604486405850,
+      "updateTime" : "2022-01-11 16:23:10",
+      "wavName" : "J_J_a_J_i_J_u.wav"
    },
    "C5->nn_o" : {
       "connectPoint" : 0.05999999865889549,
@@ -849,94 +706,6 @@
       "vowelEnd" : 1.130222853273153,
       "vowelStart" : 0.1523748002946377,
       "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
-   },
-   "C5->nny_-" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 17.23250823840499,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 17.02673286572099,
-      "symbol" : "nny_-",
-      "tailPoint" : 0.1457753740251064,
-      "updateTime" : "2022-01-05 10:43:12",
-      "wavName" : "-a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav"
-   },
-   "C5->nny_a" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 2.143186386674643,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 1.935246411710978,
-      "symbol" : "nny_a",
-      "tailPoint" : 0.1479399763047695,
-      "updateTime" : "2022-01-05 10:47:43",
-      "wavName" : "J_J_a_J_i_J_u.wav"
-   },
-   "C5->nny_e" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.138884361833334,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 2.950039807707071,
-      "symbol" : "nny_e",
-      "tailPoint" : 0.1288445554673672,
-      "updateTime" : "2022-01-05 10:48:22",
-      "wavName" : "J_u_J_e_J_o_J.wav"
-   },
-   "C5->nny_hh" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 17.23177390918136,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 16.92121833935380,
-      "symbol" : "nny_hh",
-      "tailPoint" : 0.2505555711686611,
-      "updateTime" : "2022-01-05 10:44:14",
-      "wavName" : "-ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav"
-   },
-   "C5->nny_i" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 4.126206453889608,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 3.935425464063883,
-      "symbol" : "nny_i",
-      "tailPoint" : 0.1307809911668301,
-      "updateTime" : "2022-01-05 10:47:52",
-      "wavName" : "J_J_a_J_i_J_u.wav"
-   },
-   "C5->nny_nny" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 1.181801136583090,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 0.8806406892836094,
-      "symbol" : "nny_nny",
-      "tailPoint" : 0.2411604486405850,
-      "updateTime" : "2022-01-05 10:47:34",
-      "wavName" : "J_J_a_J_i_J_u.wav"
-   },
-   "C5->nny_o" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 5.064106043428183,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 4.873626653105021,
-      "symbol" : "nny_o",
-      "tailPoint" : 0.1304793916642666,
-      "updateTime" : "2022-01-05 10:48:40",
-      "wavName" : "J_u_J_e_J_o_J.wav"
-   },
-   "C5->nny_u" : {
-      "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.059446390718222,
-      "pitch" : "C5",
-      "srcType" : "VX",
-      "startTime" : 5.845072213560343,
-      "symbol" : "nny_u",
-      "tailPoint" : 0.1543741784989834,
-      "updateTime" : "2022-01-05 10:48:06",
-      "wavName" : "J_J_a_J_i_J_u.wav"
    },
    "C5->o" : {
       "connectPoint" : 0.05999999865889549,
@@ -1116,13 +885,13 @@
       "srcType" : "VX",
       "startTime" : 1.897995177656412,
       "symbol" : "u_e",
-      "tailPoint" : 0.1669195257127285,
+      "tailPoint" : 0.1669195257127287,
       "updateTime" : "2022-01-05 10:45:35",
       "wavName" : "u_u_e_u_o_u_n.wav"
    },
    "C5->u_hh" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 5.309694346040487,
+      "endTime" : 5.309694346040488,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 5.067739430814982,
@@ -1133,7 +902,7 @@
    },
    "C5->u_i" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 3.187008675187826,
+      "endTime" : 3.187008675187827,
       "pitch" : "C5",
       "srcType" : "VX",
       "startTime" : 2.971080962568522,
@@ -1160,7 +929,7 @@
       "srcType" : "VX",
       "startTime" : 1.899881426244974,
       "symbol" : "u_ng",
-      "tailPoint" : 0.1471301876008511,
+      "tailPoint" : 0.1471301876008513,
       "updateTime" : "2022-01-05 10:50:26",
       "wavName" : "N_u_N_e_N_o_N.wav"
    },

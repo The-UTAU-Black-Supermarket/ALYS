@@ -1,7 +1,7 @@
 vowel only pitches
 A3 G4 C5
-105 configs
-966 expected errors
+84 configs
+987 expected errors
 
 -a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav
 -ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav
