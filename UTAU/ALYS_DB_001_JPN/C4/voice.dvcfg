@@ -7603,14 +7603,14 @@
    },
    "C4->o_H" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.980262812227011,
+      "endTime" : 6.823007162660360,
       "pitch" : "C4",
       "srcType" : "VX",
-      "startTime" : 6.603030148893595,
+      "startTime" : 6.517680589109659,
       "symbol" : "o_H",
-      "tailPoint" : 0.3172326646745205,
-      "updateTime" : "2022-01-09 12:18:39",
-      "wavName" : "he_he_ho_he_n_he_ha_h.wav"
+      "tailPoint" : 0.2453265748918057,
+      "updateTime" : "2022-01-11 13:51:59",
+      "wavName" : "hi_hi_hu_hi_he_hi_ho_h.wav"
    },
    "C4->o_HY" : {
       "connectPoint" : 0.05999999865889549,
