@@ -22,6 +22,7 @@ full pitches
 C4 E4 A4
 828 configs
 243 expected errors
+3960 total
 
 -a-_-i-_-u-_-e-_-o-_-n-_-N-_-m-_-J-.wav
 -ahh_ihh_uhh_ehh_ohh_nhh_Nhh_mhh_Jhh.wav

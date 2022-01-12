@@ -3794,14 +3794,14 @@
    },
    "C4->e_FY" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.989015635102988,
+      "endTime" : 7.098463114351034,
       "pitch" : "C4",
       "srcType" : "VX",
-      "startTime" : 6.594263974577189,
+      "startTime" : 6.716595593839884,
       "symbol" : "e_FY",
-      "tailPoint" : 0.3347516618669033,
-      "updateTime" : "2022-01-09 13:29:47",
-      "wavName" : "fye_fye_fyo_fye_n_fye_fya_fy.wav"
+      "tailPoint" : 0.3218675218522549,
+      "updateTime" : "2022-01-12 19:08:48",
+      "wavName" : "fya_fya_fyi_fya_fyu_fya_fye_fy.wav"
    },
    "C4->e_G" : {
       "connectPoint" : 0.05999999865889549,
@@ -6479,13 +6479,13 @@
    },
    "C4->nn_B" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 7.247192915529013,
+      "endTime" : 3.190398987382650,
       "pitch" : "C4",
       "srcType" : "VX",
-      "startTime" : 6.917012158781290,
+      "startTime" : 2.902835074812174,
       "symbol" : "nn_B",
-      "tailPoint" : 0.2701807580888271,
-      "updateTime" : "2022-01-09 15:25:44",
+      "tailPoint" : 0.2275639139115810,
+      "updateTime" : "2022-01-12 19:11:11",
       "wavName" : "bu_bu_be_bu_bo_bu_n_b.wav"
    },
    "C4->nn_BY" : {
@@ -7493,14 +7493,14 @@
    },
    "C4->o_BY" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 7.219908770173788,
+      "endTime" : 7.235711630433798,
       "pitch" : "C4",
       "srcType" : "VX",
-      "startTime" : 6.831190053373575,
+      "startTime" : 6.856996957212687,
       "symbol" : "o_BY",
-      "tailPoint" : 0.3287187181413174,
-      "updateTime" : "2022-01-09 18:01:07",
-      "wavName" : "byo_byo_n_byo_bya_byo_byi_by.wav"
+      "tailPoint" : 0.3187146745622158,
+      "updateTime" : "2022-01-12 19:12:02",
+      "wavName" : "byi_byi_byu_byi_bye_byi_byo_by.wav"
    },
    "C4->o_CH" : {
       "connectPoint" : 0.05999999865889549,
@@ -9140,14 +9140,14 @@
    },
    "C4->u_KW" : {
       "connectPoint" : 0.05999999865889549,
-      "endTime" : 6.910855349153280,
+      "endTime" : 5.945074614137411,
       "pitch" : "C4",
       "srcType" : "VX",
-      "startTime" : 6.628107015043497,
+      "startTime" : 5.596829358488321,
       "symbol" : "u_KW",
-      "tailPoint" : 0.2227483354508877,
-      "updateTime" : "2022-01-05 18:50:31",
-      "wavName" : "kwu_kwu_kwe_kwu_kwo_kwu_n_kw.wav"
+      "tailPoint" : 0.2882452569901943,
+      "updateTime" : "2022-01-12 19:13:37",
+      "wavName" : "kw_n_kwi_n_kwa_n_kwu_kw.wav"
    },
    "C4->u_KY" : {
       "connectPoint" : 0.05999999865889549,
