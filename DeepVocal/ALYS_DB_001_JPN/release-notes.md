@@ -1,4 +1,4 @@
-Thanks to VOISTAR Project's support, this DeepVocal voicebank was configured by Adlez27 based on ALYS_DB_001_JPN.
+Thanks to [VOISTAR Project](https://www.voistarproject.com/)'s support, this DeepVocal voicebank was configured by Adlez27 based on ALYS_DB_001_JPN.
 
 # Installation
 Scroll down and download the file `ALYS_JPN_1.zip`. Unzip the file, then move the resulting `ALYS JPN 1` folder to `C:\Program Files (x86)\DeepVocal\singers`.
