@@ -26,6 +26,8 @@ The build folder can then be moved to `C:\Program Files (x86)\DeepVocal\singers`
 # Usage
 A dictionary file has been included for compatibility with both romaji and hiragana lyrics.
 
+If you would like to see all of this voicebank's features in action, download `alys_demo.dv` from below and open the file in DeepVocal.
+
 ## Multipitch
 There are three full pitches (C4 E4 A4) and three additional vowel-only pitches (A3 G4 C5). It's recommended to cut long notes into a small starting note and long vowel note in order to make use of all six pitches.
 
