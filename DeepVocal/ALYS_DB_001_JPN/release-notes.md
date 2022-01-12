@@ -15,11 +15,11 @@ Go to Function > Build Voice Bank.
 <!-- TODO: update screenshot -->
 ![screenshot](build-vb.png)
 
-In Wav Locations, ensure all six sample folders have been added.
+In Wav Locations, ensure all 6 sample folders have been added.
 
 In Model Symbols, select "All setted symbols in wav locations". Create a new folder for model files and select it with the "Model File Location" button, then press "Build Voice Model Files".
 
-In Build Voice Bank, ensure that all three pitches and the singer name has been specified. Use the "Voice Bank Location" button to select the `ALYS\DeepVocal\ALYS_DB_001_JPN\build` folder, then press Build Voice Bank.
+In Build Voice Bank, ensure that all 6 pitches and the singer name has been specified. Use the "Voice Bank Location" button to select the `ALYS\DeepVocal\ALYS_DB_001_JPN\build` folder, then press Build Voice Bank.
 
 The build folder can then be moved to `C:\Program Files (x86)\DeepVocal\singers` to use the voicebank in DeepVocal.
 
